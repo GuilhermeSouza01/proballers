@@ -1,9 +1,7 @@
+import AppLayout from "./ui/AppLayout";
+
 function App() {
-    return (
-        <>
-            <h1 className="bg-orange-300 text-gray-800">React 18</h1>
-        </>
-    );
+    return <AppLayout></AppLayout>;
 }
 
 export default App;
