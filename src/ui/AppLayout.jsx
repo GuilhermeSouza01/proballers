@@ -13,9 +13,9 @@ const AppLayout = () => {
                     <PlayersPage />
                 </div>
 
-                {/* <div className="w-full md:w-1/4 md:ml-0">
+                <div className="w-full md:w-1/4 md:ml-0">
                     <ClubList />
-                </div> */}
+                </div>
             </section>
         </div>
     );
